@@ -6,7 +6,7 @@ const REQUEST_DATA='REQUEST_DATA';
 const FAILED_DATA='FAILED_DATA';
 const SUCCESS_DATA='SUCCESS_DATA';
 
-const api_url='https://jsonplaceholder.typicode.com/todo';
+const api_url='https://jsonplaceholder.typicode.com/todos';
 
 // state
 const initialDataState={
